@@ -1,3 +1,4 @@
 # ignore all logs
 *.log
 *.idea/*
+/nbproject/private/
